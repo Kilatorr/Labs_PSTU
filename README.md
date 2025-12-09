@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 1_1 | 🟢/🟢  | https://github.com/Kilatorr/Labs_PSTU/blob/main/1%20sem/1.1/1.1.cpp | https://github.com/Kilatorr/Labs_PSTU/blob/main/1%20sem/1.1/1.1.png |
 | 1_2 | 🟢/🟢  | https://github.com/Kilatorr/Labs_PSTU/blob/main/1%20sem/1.2/1.2.cpp | https://github.com/Kilatorr/Labs_PSTU/blob/main/1%20sem/1.2/1.2.png |
-| 1_3 | 🟢/🔴  | --- | --- |
+| 1_3 | 🟢/🟢  | https://github.com/Kilatorr/Labs_PSTU/blob/main/1%20sem/1.3/1_3.cpp | https://github.com/Kilatorr/Labs_PSTU/blob/main/1%20sem/1.3/1.3.png |
 | 2_1 | 🟢/🔴  | --- | --- |
 | 2_2 | 🟡/🔴  | --- | --- |
 | 2_3 | 🟡/🔴  | --- | --- |
