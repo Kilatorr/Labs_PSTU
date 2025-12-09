@@ -5,13 +5,13 @@ int main (){
     int a, b, c;
     cin >> a >> b >> c;
     if (a > b && a > c){
-        cout<<"a skebed";
+        cout<<"a bigger";
     }
     if (b > a && b > c){
-        cout<<"b skebed";
+        cout<<"b bigger";
     }
     if (c > b && c > b){
-        cout<<"c skebed";
+        cout<<"c bigger";
     }
 ;
 ;
