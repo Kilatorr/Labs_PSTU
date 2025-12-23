@@ -1,23 +1,19 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int n;
-    int sum = 0;
-
-    cin >> n;
-
-    if (n <=0 ) {
-        cout << "Невозможно вычислить сумму, так как n <= 0" << endl;
+int n; int sum = 0;
+cin >> n;
+if (n <= 0)
+{
+    cout << "Ошибка" << endl;
+}
+else 
+{
+    for (int i = 1; i <= n; i++)
+    {
+        sum += i;
     }
-    else {
-        for (int i = 0; i <= n; i++) {
-            sum += i;
-        }
-
-        cout << sum << endl;
-    }
-    
-    return 0;
+    cout << sum << endl;
+}
 }

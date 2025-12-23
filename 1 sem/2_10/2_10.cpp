@@ -1,16 +1,14 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-	int n, temp, max;
-	cin >> n;
-
-	cout << "first n ";
-	cin >> max;
-	for (int i = 1; i < n; i++) {
-		cin >> temp;
-		if (temp > max) { max = temp; }
-	}
-	cout << max << endl;
-	return 0;
+int n, nextnum, max;
+cin >> n; //кол-во чисел
+cin >> max; //первое число
+for (int i = 2; i <= n; i++)
+{
+cin >> nextnum; //след числа
+if (nextnum > max) { max = nextnum; }
+}
+cout << "max = " << max << endl;
 }

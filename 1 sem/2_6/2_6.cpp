@@ -1,29 +1,19 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int n;
-
-    cin >> n;
-
-    int spaces = 0;
-    int stars = n;
-
-    for (int i = 1; i <= n; i++) {
-
-        for (int j = 1; j <= spaces; j++) {
-            cout << " ";
-        }
-        spaces += 1;
-
-        for (int j = 1; j <= stars; j++) {
-            cout << "*";
-        }
-        stars -= 1;
-
-        cout << endl;
+int n;
+cin >> n;
+for (int i = 0; i < n; i++)
+{
+    for (int h = n; h > n - i; h--)
+    {
+        cout << " ";
     }
-
-    return 0;
+    for (int j = n; j > i; j--)
+    {
+        cout << "*";
+    }
+    cout << endl;
+}
 }

@@ -1,22 +1,17 @@
-﻿#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-int main()
+int main() {
+int n, r = 0, dr = 0;
+cin >> n;
+for(int i = 1; i <= n; i++)
 {
-    int N; int sum = 0; int prod = 1;
-    cin >> N;
-
-    for (int i = 1; i <= N; i++) {
-
-        prod = 1;
-        for (int j = 1; j <= 2*i; j++) {
-            prod *= j;
-        }
-
-        sum += prod;
+    dr = 1;
+    for(int j = i; j <= 2*i; j++)
+    {
+        dr *= j;
     }
-    cout << sum << endl;
-    return 0;
-    
+    r += dr;
 }
-
+cout << r << endl;
+}
