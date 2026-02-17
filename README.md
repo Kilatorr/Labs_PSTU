@@ -10,30 +10,30 @@
 ## 2 семестр
 | Задача | Статус (код / схема) | Исходный код | Блок-схема |
 |--------|----------------------|--------------|------------|
-| пузырьком | 🟢 / 🔴 | [main.cpp](2sem/bubble/main.cpp) | [схема](sem_2/bubble/diag.png) |
-| выбором | 🟢 / 🔴 | [main.cpp](2sem/vibor/main.cpp) | [схема](sem_2/vibor/diag.png) |
-| вставками | 🟢 / 🔴 | [main.cpp](2sem/vstavki/main.cpp) | [схема](sem_2/vstavki/diag.png) |
-| 3.1 | 🔴 / 🔴 | [main.cpp](sem_2/3_1/main.cpp) | [схема](sem_2/3_1/diag.png) |
-| 3.2 | 🔴 / 🔴 | [main.cpp](sem_2/3_2/main.cpp) | [схема](sem_2/3_2/diag.png) |
-| 3.3 | 🔴 / 🔴 | [main.cpp](sem_2/3_3/main.cpp) | [схема](sem_2/3_3/diag.png) |
-| 3.4 | 🔴 / 🔴 | [main.cpp](sem_2/3_4/main.cpp) | [схема](sem_2/3_4/diag.png) |
-| 3.5 | 🔴 / 🔴 | [main.cpp](sem_2/3_5/main.cpp) | [схема](sem_2/3_5/diag.png) |
-| 3.6 | 🔴 / 🔴 | [main.cpp](sem_2/3_6/main.cpp) | [схема](sem_2/3_6/diag.png) |
-| 3.7 | 🔴 / 🔴 | [main.cpp](sem_2/3_7/main.cpp) | [схема](sem_2/3_7/diag.png) |
-| 3.8 | 🔴 / 🔴 | [main.cpp](sem_2/3_8/main.cpp) | [схема](sem_2/3_8/diag.png) |
-| 3.9 | 🔴 / 🔴 | [main.cpp](sem_2/3_9/main.cpp) | [схема](sem_2/3_9/diag.png) |
-| 3.10 | 🔴 / 🔴 | [main.cpp](sem_2/3_10/main.cpp) | [схема](sem_2/3_10/diag.png) |
-| 3.11 | 🔴 / 🔴 | [main.cpp](sem_2/3_11/main.cpp) | [схема](sem_2/3_11/diag.png) |
-| 3.12 | 🔴 / 🔴 | [main.cpp](sem_2/3_12/main.cpp) | [схема](sem_2/3_12/diag.png) |
-| 3.13 | 🔴 / 🔴 | [main.cpp](sem_2/3_13/main.cpp) | [схема](sem_2/3_13/diag.png) |
+| пузырьком | 🟢 / 🔴 | [main.cpp](2sem/bubble/main.cpp) | [схема](2sem/bubble/diag.png) |
+| выбором | 🟢 / 🔴 | [main.cpp](2sem/vibor/main.cpp) | [схема](2sem/vibor/diag.png) |
+| вставками | 🟢 / 🔴 | [main.cpp](2sem/vstavki/main.cpp) | [схема](2sem/vstavki/diag.png) |
+| 3.1 | 🔴 / 🔴 | [main.cpp](2sem/3_1/main.cpp) | [схема](2sem/3_1/diag.png) |
+| 3.2 | 🔴 / 🔴 | [main.cpp](2sem/3_2/main.cpp) | [схема](2sem/3_2/diag.png) |
+| 3.3 | 🔴 / 🔴 | [main.cpp](2sem/3_3/main.cpp) | [схема](2sem/3_3/diag.png) |
+| 3.4 | 🔴 / 🔴 | [main.cpp](2sem/3_4/main.cpp) | [схема](2sem/3_4/diag.png) |
+| 3.5 | 🔴 / 🔴 | [main.cpp](2sem/3_5/main.cpp) | [схема](2sem/3_5/diag.png) |
+| 3.6 | 🔴 / 🔴 | [main.cpp](2sem/3_6/main.cpp) | [схема](2sem/3_6/diag.png) |
+| 3.7 | 🔴 / 🔴 | [main.cpp](2sem/3_7/main.cpp) | [схема](2sem/3_7/diag.png) |
+| 3.8 | 🔴 / 🔴 | [main.cpp](2sem/3_8/main.cpp) | [схема](2sem/3_8/diag.png) |
+| 3.9 | 🔴 / 🔴 | [main.cpp](2sem/3_9/main.cpp) | [схема](2sem/3_9/diag.png) |
+| 3.10 | 🔴 / 🔴 | [main.cpp](2sem/3_10/main.cpp) | [схема](2sem/3_10/diag.png) |
+| 3.11 | 🔴 / 🔴 | [main.cpp](2sem/3_11/main.cpp) | [схема](2sem/3_11/diag.png) |
+| 3.12 | 🔴 / 🔴 | [main.cpp](2sem/3_12/main.cpp) | [схема](2sem/3_12/diag.png) |
+| 3.13 | 🔴 / 🔴 | [main.cpp](2sem/3_13/main.cpp) | [схема](2sem/3_13/diag.png) |
 ---
 ## Лабы
 | Номер | Номер в методичке | Статус (код / схема) | Исходный код | Блок-схема |
 |--------|--------|----------------------|--------------|------------|
-| 1 |  3  | 🔴 / 🔴 | [main.cpp](sem_2/lab_1/main.cpp) | [схема](sem_2/lab_1/diag.png) |
-| 2 |  4  | 🔴 / 🔴 | [main.cpp](sem_2/lab_2/main.cpp) | [схема](sem_2/lab_2/diag.png) |
-| 3 |  5  | 🔴 / 🔴 | [main.cpp](sem_2/lab_3/main.cpp) | [схема](sem_2/lab_3/diag.png) |
-| 4 |  10  | 🔴 / 🔴 | [main.cpp](sem_2/lab_4/main.cpp) | [схема](sem_2/lab_4/diag.png) |
+| 1 |  3  | 🔴 / 🔴 | [main.cpp](2sem/lab_1/main.cpp) | [схема](2sem/lab_1/diag.png) |
+| 2 |  4  | 🔴 / 🔴 | [main.cpp](2sem/lab_2/main.cpp) | [схема](2sem/lab_2/diag.png) |
+| 3 |  5  | 🔴 / 🔴 | [main.cpp](2sem/lab_3/main.cpp) | [схема](2sem/lab_3/diag.png) |
+| 4 |  10  | 🔴 / 🔴 | [main.cpp](2sem/lab_4/main.cpp) | [схема](2sem/lab_4/diag.png) |
 ---
 
 
