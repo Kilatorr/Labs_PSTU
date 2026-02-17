@@ -11,8 +11,8 @@
 | Задача | Статус (код / схема) | Исходный код | Блок-схема |
 |--------|----------------------|--------------|------------|
 | пузырьком | 🟢 / 🔴 | [main.cpp](2sem/bubble/main.cpp) | [схема](sem_2/bubble/diag.png) |
-| выбором | 🟢 / 🔴 | [main.cpp](sem_2/vibor/main.cpp) | [схема](sem_2/vibor/diag.png) |
-| вставками | 🟢 / 🔴 | [main.cpp](sem_2/vstavki/main.cpp) | [схема](sem_2/vstavki/diag.png) |
+| выбором | 🟢 / 🔴 | [main.cpp](2sem/vibor/main.cpp) | [схема](sem_2/vibor/diag.png) |
+| вставками | 🟢 / 🔴 | [main.cpp](2sem/vstavki/main.cpp) | [схема](sem_2/vstavki/diag.png) |
 | 3.1 | 🔴 / 🔴 | [main.cpp](sem_2/3_1/main.cpp) | [схема](sem_2/3_1/diag.png) |
 | 3.2 | 🔴 / 🔴 | [main.cpp](sem_2/3_2/main.cpp) | [схема](sem_2/3_2/diag.png) |
 | 3.3 | 🔴 / 🔴 | [main.cpp](sem_2/3_3/main.cpp) | [схема](sem_2/3_3/diag.png) |
