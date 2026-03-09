@@ -33,8 +33,8 @@
 | Номер | Номер в методичке | Статус (код / схема) | Исходный код | Блок-схема |
 |--------|--------|----------------------|--------------|------------|
 | 1 |  3  | 🔴 / 🔴 | [main.cpp](2sem/lab_1/main.cpp) | [схема](2sem/lab_1/diag.png) |
-| 2 |  4  | 🟢 / 🔴 | [main.cpp](2sem/lab_2/main.cpp) | [схема](2sem/lab_2/diag.png) |
-| 3 |  5  | 🟢 / 🟢 | [main.cpp](2sem/lab_3/main.cpp) | [схема](2sem/lab_3/diag.png) |
+| 2 |  4  | 🟢 / 🔴 | [main.cpp](2sem/lab4/main.cpp) | [схема](2sem/lab4/diag.png) |
+| 3 |  5  | 🟢 / 🟢 | [main.cpp](2sem/lab_5/main.cpp) | [схема](2sem/lab_5/diag.png) |
 | 4 |  10  | 🔴 / 🔴 | [main.cpp](2sem/lab_4/main.cpp) | [схема](2sem/lab_4/diag.png) |
 ---
 
